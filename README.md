@@ -1,3 +1,3 @@
 ## Website live view
 
-Link : https://leon-extreme.github.io/odin-recipes/
+Link : https://leonvlasic.github.io/odin-recipes/
